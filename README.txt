@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/panz/pen/mKdvJe.
-
- 
+You can find live app at https://stocks-mp.firebaseapp.com/
